@@ -1,0 +1,114 @@
+{
+    "chats": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "profile": "https://i.pravatar.cc/40?img=1",
+            "messages": [
+                {"text": "Hey! How are you?", "from": "Alice"},
+                {"text": "I'm good, thanks! How about you?", "from": "You"},
+                {"text": "Doing great! What’s up?", "from": "Alice"},
+                {"text": "Just working on a project.", "from": "You"}
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "profile": "https://i.pravatar.cc/40?img=2",
+            "messages": [
+                {"text": "Hello!", "from": "Bob"},
+                {"text": "Hi Bob!", "from": "You"},
+                {"text": "Are we meeting tomorrow?", "from": "Bob"},
+                {"text": "Yes, let's meet at 10 AM.", "from": "You"}
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "profile": "https://i.pravatar.cc/40?img=3",
+            "messages": [
+                {"text": "Yo! Long time no see.", "from": "Charlie"},
+                {"text": "Haha, yeah! How's everything?", "from": "You"},
+                {"text": "All good. We should catch up.", "from": "Charlie"},
+                {"text": "Sure, let's plan something soon.", "from": "You"}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "profile": "https://i.pravatar.cc/40?img=4",
+            "messages": [
+                {"text": "Hey, did you complete the assignment?", "from": "David"},
+                {"text": "Not yet, I'm working on it.", "from": "You"},
+                {"text": "Need any help?", "from": "David"},
+                {"text": "That would be great! Let’s discuss.", "from": "You"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Emma",
+            "profile": "https://i.pravatar.cc/40?img=5",
+            "messages": [
+                {"text": "Hey, are you coming to the party?", "from": "Emma"},
+                {"text": "Not sure yet. Who else is coming?", "from": "You"},
+                {"text": "Almost everyone! You should join.", "from": "Emma"},
+                {"text": "Okay, I'll try to be there.", "from": "You"}
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Sophia",
+            "profile": "https://i.pravatar.cc/40?img=6",
+            "messages": [
+                {"text": "Did you watch the latest movie?", "from": "Sophia"},
+                {"text": "No, not yet. Is it good?", "from": "You"},
+                {"text": "Yes! You should definitely watch it.", "from": "Sophia"},
+                {"text": "Alright, adding it to my list.", "from": "You"}
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Michael",
+            "profile": "https://i.pravatar.cc/40?img=7",
+            "messages": [
+                {"text": "Hey bro! Game night today?", "from": "Michael"},
+                {"text": "Of course! What game are we playing?", "from": "You"},
+                {"text": "Thinking of FIFA or Call of Duty.", "from": "Michael"},
+                {"text": "Sounds awesome! See you in the evening.", "from": "You"}
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Olivia",
+            "profile": "https://i.pravatar.cc/40?img=8",
+            "messages": [
+                {"text": "Can you send me the notes?", "from": "Olivia"},
+                {"text": "Sure, I’ll send them now.", "from": "You"},
+                {"text": "Thanks a lot!", "from": "Olivia"},
+                {"text": "No problem! Let me know if you need anything else.", "from": "You"}
+            ]
+        },
+        {
+            "id": 9,
+            "name": "William",
+            "profile": "https://i.pravatar.cc/40?img=9",
+            "messages": [
+                {"text": "How’s your coding project going?", "from": "William"},
+                {"text": "It’s coming along well. Just debugging now.", "from": "You"},
+                {"text": "Nice! Let me know if you need help.", "from": "William"},
+                {"text": "Will do, thanks!", "from": "You"}
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Lucas",
+            "profile": "https://i.pravatar.cc/40?img=10",
+            "messages": [
+                {"text": "Wanna go for a hike this weekend?", "from": "Lucas"},
+                {"text": "Sounds fun! Where are we going?", "from": "You"},
+                {"text": "Thinking of the forest trail.", "from": "Lucas"},
+                {"text": "Awesome! Let’s do it.", "from": "You"}
+            ]
+        }
+    ]
+}
